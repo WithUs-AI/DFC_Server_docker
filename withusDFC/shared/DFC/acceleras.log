@@ -1,0 +1,211 @@
+2024-03-08 14:11:11,111 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-08 14:11:50,256 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:39.15)
+2024-03-08 14:11:53,521 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-08 14:11:53,525 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-08 14:11:53,527 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-08 14:11:53,568 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-11 16:01:22,323 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-11 16:02:01,419 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:39.10)
+2024-03-11 16:02:04,601 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-11 16:02:04,605 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-11 16:02:04,607 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-11 16:02:04,653 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-11 16:08:54,837 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-11 16:09:34,310 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:39.47)
+2024-03-11 16:09:37,465 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-11 16:09:37,469 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-11 16:09:37,471 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-11 16:09:37,525 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-11 16:10:29,491 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-11 16:11:07,928 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:38.44)
+2024-03-11 16:11:11,572 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-11 16:11:11,576 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-11 16:11:11,577 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-11 16:11:11,637 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-11 16:11:59,195 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-11 16:12:38,835 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:39.64)
+2024-03-11 16:12:42,025 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-11 16:12:42,029 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-11 16:12:42,031 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-11 16:12:42,094 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-11 16:13:28,885 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-11 16:14:08,855 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:39.97)
+2024-03-11 16:14:12,765 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-11 16:14:12,769 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-11 16:14:12,771 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-11 16:14:12,842 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-11 16:15:01,885 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-11 16:15:40,745 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:38.86)
+2024-03-11 16:15:43,889 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-11 16:15:43,893 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-11 16:15:43,895 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-11 16:15:43,968 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-11 16:16:33,298 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-11 16:17:12,470 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:39.17)
+2024-03-11 16:17:15,622 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-11 16:17:15,627 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-11 16:17:15,629 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-11 16:17:15,708 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-11 16:18:08,272 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-11 16:18:48,659 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:40.39)
+2024-03-11 16:18:52,773 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-11 16:18:52,777 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-11 16:18:52,778 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-11 16:18:52,865 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 11:46:15,555 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 11:46:56,461 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:40.91)
+2024-03-12 11:47:00,673 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 11:47:00,677 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 11:47:00,679 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 11:47:00,773 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 13:09:05,991 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 13:09:46,870 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:40.88)
+2024-03-12 13:09:50,065 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 13:09:50,069 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 13:09:50,071 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 13:09:50,169 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 13:10:39,517 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 13:11:21,556 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:42.04)
+2024-03-12 13:11:24,819 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 13:11:24,823 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 13:11:24,825 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 13:11:24,934 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 13:24:32,813 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 13:25:14,890 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:42.08)
+2024-03-12 13:25:18,112 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 13:25:18,117 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 13:25:18,119 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 13:25:18,228 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 14:25:52,028 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 14:26:41,860 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:49.83)
+2024-03-12 14:26:45,397 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 14:26:45,401 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 14:26:45,403 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 14:26:45,452 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 14:58:12,131 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 14:59:02,296 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:50.17)
+2024-03-12 14:59:05,887 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 14:59:05,891 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 14:59:05,893 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 14:59:05,948 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 15:00:27,103 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 15:01:16,923 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:49.82)
+2024-03-12 15:01:20,086 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 15:01:20,091 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 15:01:20,093 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 15:01:20,152 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 15:05:03,676 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 15:05:56,175 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:52.50)
+2024-03-12 15:05:59,336 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 15:05:59,340 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 15:05:59,342 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 15:05:59,406 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 15:31:28,990 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 15:32:19,047 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:50.06)
+2024-03-12 15:32:22,184 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 15:32:22,188 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 15:32:22,190 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 15:32:22,238 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 15:49:28,059 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 15:50:17,392 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:49.33)
+2024-03-12 15:50:20,556 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 15:50:20,560 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 15:50:20,562 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 15:50:20,616 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 15:52:40,392 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 15:53:31,192 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:50.80)
+2024-03-12 15:53:34,315 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 15:53:34,319 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 15:53:34,321 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 15:53:34,380 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 15:58:59,852 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 15:59:48,961 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:49.11)
+2024-03-12 15:59:52,138 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 15:59:52,142 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 15:59:52,144 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 15:59:52,210 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 16:11:27,539 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 16:12:16,882 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:49.34)
+2024-03-12 16:12:20,049 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 16:12:20,053 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 16:12:20,055 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 16:12:20,129 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-12 16:14:59,767 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-12 16:15:50,835 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:51.07)
+2024-03-12 16:15:54,020 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-12 16:15:54,024 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-12 16:15:54,026 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-12 16:15:54,110 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-03-13 15:31:48,894 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-03-13 15:34:05,407 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:02:16.51)
+2024-03-13 15:34:08,610 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-03-13 15:34:08,614 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-03-13 15:34:08,616 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-03-13 15:34:08,708 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-07-24 10:05:02,597 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-07-24 10:05:29,788 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:27.19)
+2024-07-24 10:05:31,510 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-07-24 10:05:31,517 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-07-24 10:05:31,521 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-07-24 10:05:31,548 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-07-31 05:52:00,299 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-07-31 05:52:25,882 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:25.58)
+2024-07-31 05:52:27,638 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-07-31 05:52:27,647 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-07-31 05:52:27,652 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-07-31 05:52:27,678 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-07-31 07:16:27,831 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-07-31 07:16:53,055 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:25.22)
+2024-07-31 07:16:54,753 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-07-31 07:16:54,760 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-07-31 07:16:54,764 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-07-31 07:16:54,791 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-07-31 07:30:02,357 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-07-31 07:30:27,458 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:25.10)
+2024-07-31 07:30:29,571 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-07-31 07:30:29,577 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-07-31 07:30:29,581 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-07-31 07:30:29,612 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-07-31 07:38:07,440 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-07-31 07:38:32,878 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:25.44)
+2024-07-31 07:38:34,599 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-07-31 07:38:34,607 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-07-31 07:38:34,611 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-07-31 07:38:34,646 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-07-31 07:57:44,092 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-07-31 07:58:09,818 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:25.73)
+2024-07-31 07:58:11,520 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-07-31 07:58:11,527 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-07-31 07:58:11,531 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-07-31 07:58:11,567 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-07-31 08:12:14,066 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-07-31 08:12:39,514 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:25.45)
+2024-07-31 08:12:41,220 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-07-31 08:12:41,227 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-07-31 08:12:41,231 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-07-31 08:12:41,274 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-07-31 08:54:56,173 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-07-31 08:55:22,687 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:26.51)
+2024-07-31 08:55:24,382 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-07-31 08:55:24,389 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-07-31 08:55:24,393 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-07-31 08:55:24,443 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-07-31 09:09:40,667 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-07-31 09:10:07,485 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:26.82)
+2024-07-31 09:10:09,211 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-07-31 09:10:09,218 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-07-31 09:10:09,221 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-07-31 09:10:09,277 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-08-02 03:47:40,387 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-08-02 03:48:07,890 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:27.50)
+2024-08-02 03:48:09,608 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-08-02 03:48:09,614 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-08-02 03:48:09,618 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-08-02 03:48:09,669 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-08-02 08:23:12,570 - INFO - algorithm_base.py:116 - Starting Stats Collector
+2024-08-02 08:23:37,543 - INFO - algorithm_base.py:125 - Stats Collector is done (completion time is 00:00:24.97)
+2024-08-02 08:23:39,255 - INFO - algorithm_base.py:112 - Bias Correction skipped
+2024-08-02 08:23:39,263 - INFO - algorithm_base.py:112 - Adaround skipped
+2024-08-02 08:23:39,267 - INFO - algorithm_base.py:112 - Fine Tune skipped
+2024-08-02 08:23:39,291 - INFO - algorithm_base.py:112 - Layer Noise Analysis skipped
+2024-08-02 08:59:20,363 - INFO - algorithm_base.py:116 - Starting Stats Collector

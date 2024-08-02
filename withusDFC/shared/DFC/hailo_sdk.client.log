@@ -1,0 +1,426 @@
+2024-02-29 11:15:52,752 - COMMAND - main.py:52 - hailo tutorial -ip 0.0.0.0
+2024-02-29 11:16:18,926 - COMMAND - main.py:52 - hailo tutorial --ip 0.0.0.0
+2024-02-29 18:39:00,545 - INFO - __init__.py:61 - First time Hailo Dataflow Compiler is being used. Checking system requirements... (this might take a few seconds)
+2024-02-29 18:46:54,228 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-02-29 18:46:54,294 - INFO - client_runner.py:1068 - Translation completed on ONNX model uf22FVbc72XKhMj0_Model
+2024-02-29 18:46:54,884 - INFO - client_runner.py:1432 - Initialized runner for uf22FVbc72XKhMj0_Model
+2024-03-08 13:28:47,707 - INFO - __init__.py:61 - First time Hailo Dataflow Compiler is being used. Checking system requirements... (this might take a few seconds)
+2024-03-08 13:29:37,015 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-08 13:29:37,087 - INFO - client_runner.py:1068 - Translation completed on ONNX model Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 13:29:37,678 - INFO - client_runner.py:1432 - Initialized runner for Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 13:47:48,457 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-08 13:47:48,720 - INFO - client_runner.py:1068 - Translation completed on ONNX model Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 13:47:51,690 - INFO - client_runner.py:1432 - Initialized runner for Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 13:55:55,252 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-08 13:55:55,317 - INFO - client_runner.py:1068 - Translation completed on ONNX model Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 13:55:55,892 - INFO - client_runner.py:1432 - Initialized runner for Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 14:05:48,640 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-08 14:05:48,705 - INFO - client_runner.py:1068 - Translation completed on ONNX model Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 14:05:49,275 - INFO - client_runner.py:1432 - Initialized runner for Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 14:09:24,570 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-08 14:09:24,631 - INFO - client_runner.py:1068 - Translation completed on ONNX model Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 14:09:25,195 - INFO - client_runner.py:1432 - Initialized runner for Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 14:09:51,788 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-08 14:09:51,853 - INFO - client_runner.py:1068 - Translation completed on ONNX model Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 14:09:52,433 - INFO - client_runner.py:1432 - Initialized runner for Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 14:11:02,888 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-08 14:11:02,951 - INFO - client_runner.py:1068 - Translation completed on ONNX model Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 14:11:03,522 - INFO - client_runner.py:1432 - Initialized runner for Tiz8Tqxm4ar0J6TL_Model
+2024-03-08 14:11:03,868 - INFO - client_runner.py:384 - Loading model script to Tiz8Tqxm4ar0J6TL_Model from /local/shared//Alls/Tiz8Tqxm4ar0J6TL_Model.alls
+2024-03-08 14:11:04,615 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-08 14:11:05,705 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-08 14:11:05,784 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-08 14:12:03,677 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-08 14:12:04,123 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-11 16:01:10,962 - INFO - hailo_nn.py:1290 - Found a net_name that starts with a digit, added a prefix. New net_name is net_7Winf0McC8ckfQ1E_Model
+2024-03-11 16:01:11,493 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:01:11,556 - INFO - client_runner.py:1068 - Translation completed on ONNX model net_7Winf0McC8ckfQ1E_Model
+2024-03-11 16:01:11,659 - INFO - hailo_nn.py:1290 - Found a net_name that starts with a digit, added a prefix. New net_name is net_7Winf0McC8ckfQ1E_Model
+2024-03-11 16:01:12,131 - INFO - client_runner.py:1432 - Initialized runner for net_7Winf0McC8ckfQ1E_Model
+2024-03-11 16:01:12,504 - INFO - client_runner.py:384 - Loading model script to net_7Winf0McC8ckfQ1E_Model from /local/shared//Alls/7Winf0McC8ckfQ1E_Model.alls
+2024-03-11 16:01:13,260 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:01:13,483 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:01:13,534 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:01:15,658 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:01:15,721 - INFO - client_runner.py:1068 - Translation completed on ONNX model B69g2uKeMO20IUiv_Model
+2024-03-11 16:01:16,295 - INFO - client_runner.py:1432 - Initialized runner for B69g2uKeMO20IUiv_Model
+2024-03-11 16:01:16,678 - INFO - client_runner.py:384 - Loading model script to B69g2uKeMO20IUiv_Model from /local/shared//Alls/B69g2uKeMO20IUiv_Model.alls
+2024-03-11 16:01:17,347 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:01:17,419 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:01:17,471 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:02:14,947 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-11 16:02:15,390 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-11 16:08:47,070 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:08:47,163 - INFO - client_runner.py:1068 - Translation completed on ONNX model wgN1D47jY8un5J8E_Model
+2024-03-11 16:08:47,740 - INFO - client_runner.py:1432 - Initialized runner for wgN1D47jY8un5J8E_Model
+2024-03-11 16:08:49,587 - INFO - client_runner.py:384 - Loading model script to wgN1D47jY8un5J8E_Model from /local/shared//Alls/wgN1D47jY8un5J8E_Model.alls
+2024-03-11 16:08:50,288 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:08:50,616 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:08:50,678 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:09:48,092 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-11 16:09:48,541 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-11 16:10:17,989 - INFO - hailo_nn.py:1290 - Found a net_name that starts with a digit, added a prefix. New net_name is net_67GR6GJVWExdf4gW_Model
+2024-03-11 16:10:18,532 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:10:18,595 - INFO - client_runner.py:1068 - Translation completed on ONNX model net_67GR6GJVWExdf4gW_Model
+2024-03-11 16:10:18,695 - INFO - hailo_nn.py:1290 - Found a net_name that starts with a digit, added a prefix. New net_name is net_67GR6GJVWExdf4gW_Model
+2024-03-11 16:10:19,169 - INFO - client_runner.py:1432 - Initialized runner for net_67GR6GJVWExdf4gW_Model
+2024-03-11 16:10:19,525 - INFO - client_runner.py:384 - Loading model script to net_67GR6GJVWExdf4gW_Model from /local/shared//Alls/67GR6GJVWExdf4gW_Model.alls
+2024-03-11 16:10:20,199 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:10:20,304 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:10:20,366 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:10:22,219 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:10:22,281 - INFO - client_runner.py:1068 - Translation completed on ONNX model aIB6bWx9o2y0K0I8_Model
+2024-03-11 16:10:22,851 - INFO - client_runner.py:1432 - Initialized runner for aIB6bWx9o2y0K0I8_Model
+2024-03-11 16:10:23,210 - INFO - client_runner.py:384 - Loading model script to aIB6bWx9o2y0K0I8_Model from /local/shared//Alls/aIB6bWx9o2y0K0I8_Model.alls
+2024-03-11 16:10:23,879 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:10:23,989 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:10:24,052 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:11:21,608 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-11 16:11:22,055 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-11 16:11:53,316 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:11:53,388 - INFO - client_runner.py:1068 - Translation completed on ONNX model lsoB021HuePhC9n3_Model
+2024-03-11 16:11:53,961 - INFO - client_runner.py:1432 - Initialized runner for lsoB021HuePhC9n3_Model
+2024-03-11 16:11:54,344 - INFO - client_runner.py:384 - Loading model script to lsoB021HuePhC9n3_Model from /local/shared//Alls/lsoB021HuePhC9n3_Model.alls
+2024-03-11 16:11:55,023 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:11:55,150 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:11:55,229 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:12:52,836 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-11 16:12:53,288 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-11 16:13:23,219 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:13:23,281 - INFO - client_runner.py:1068 - Translation completed on ONNX model puIKC6dpas6S53jL_Model
+2024-03-11 16:13:23,849 - INFO - client_runner.py:1432 - Initialized runner for puIKC6dpas6S53jL_Model
+2024-03-11 16:13:24,224 - INFO - client_runner.py:384 - Loading model script to puIKC6dpas6S53jL_Model from /local/shared//Alls/puIKC6dpas6S53jL_Model.alls
+2024-03-11 16:13:24,901 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:13:25,015 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:13:25,105 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:14:23,418 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-11 16:14:23,877 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-11 16:14:54,221 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:14:54,283 - INFO - client_runner.py:1068 - Translation completed on ONNX model x2xS0q4f6WrP36Uo_Model
+2024-03-11 16:14:54,846 - INFO - client_runner.py:1432 - Initialized runner for x2xS0q4f6WrP36Uo_Model
+2024-03-11 16:14:55,210 - INFO - client_runner.py:384 - Loading model script to x2xS0q4f6WrP36Uo_Model from /local/shared//Alls/x2xS0q4f6WrP36Uo_Model.alls
+2024-03-11 16:14:55,882 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:14:56,002 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:14:56,097 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:15:54,704 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-11 16:15:55,165 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-11 16:16:27,280 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:16:27,366 - INFO - client_runner.py:1068 - Translation completed on ONNX model h6cfybBS7RG36wT1_Model
+2024-03-11 16:16:27,951 - INFO - client_runner.py:1432 - Initialized runner for h6cfybBS7RG36wT1_Model
+2024-03-11 16:16:28,374 - INFO - client_runner.py:384 - Loading model script to h6cfybBS7RG36wT1_Model from /local/shared//Alls/h6cfybBS7RG36wT1_Model.alls
+2024-03-11 16:16:29,078 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:16:29,228 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:16:29,342 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:17:27,097 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-11 16:17:27,553 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-11 16:17:58,094 - INFO - hailo_nn.py:1290 - Found a net_name that starts with a digit, added a prefix. New net_name is net_3OXEcyzLsh7lO24W_Model
+2024-03-11 16:17:58,625 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:17:58,688 - INFO - client_runner.py:1068 - Translation completed on ONNX model net_3OXEcyzLsh7lO24W_Model
+2024-03-11 16:17:58,787 - INFO - hailo_nn.py:1290 - Found a net_name that starts with a digit, added a prefix. New net_name is net_3OXEcyzLsh7lO24W_Model
+2024-03-11 16:17:59,271 - INFO - client_runner.py:1432 - Initialized runner for net_3OXEcyzLsh7lO24W_Model
+2024-03-11 16:17:59,660 - INFO - client_runner.py:384 - Loading model script to net_3OXEcyzLsh7lO24W_Model from /local/shared//Alls/3OXEcyzLsh7lO24W_Model.alls
+2024-03-11 16:18:00,344 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:18:00,475 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:18:00,586 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:18:02,475 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-11 16:18:02,537 - INFO - client_runner.py:1068 - Translation completed on ONNX model ro7B39iWKsfIG2rU_Model
+2024-03-11 16:18:03,108 - INFO - client_runner.py:1432 - Initialized runner for ro7B39iWKsfIG2rU_Model
+2024-03-11 16:18:03,475 - INFO - client_runner.py:384 - Loading model script to ro7B39iWKsfIG2rU_Model from /local/shared//Alls/ro7B39iWKsfIG2rU_Model.alls
+2024-03-11 16:18:04,218 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-11 16:18:04,351 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-11 16:18:04,467 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-11 16:19:03,629 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-11 16:19:04,094 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 11:46:09,750 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 11:46:09,813 - INFO - client_runner.py:1068 - Translation completed on ONNX model k2I0pSt8me2GpYKO_Model
+2024-03-12 11:46:10,386 - INFO - client_runner.py:1432 - Initialized runner for k2I0pSt8me2GpYKO_Model
+2024-03-12 11:46:10,773 - INFO - client_runner.py:384 - Loading model script to k2I0pSt8me2GpYKO_Model from /local/shared//Alls/k2I0pSt8me2GpYKO_Model.alls
+2024-03-12 11:46:11,467 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 11:46:11,617 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 11:46:11,739 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-12 11:47:11,668 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 11:47:12,129 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 13:09:00,184 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 13:09:00,247 - INFO - client_runner.py:1068 - Translation completed on ONNX model B7VLwnT4cSaC11K3_Model
+2024-03-12 13:09:00,818 - INFO - client_runner.py:1432 - Initialized runner for B7VLwnT4cSaC11K3_Model
+2024-03-12 13:09:01,203 - INFO - client_runner.py:384 - Loading model script to B7VLwnT4cSaC11K3_Model from /local/shared//Alls/B7VLwnT4cSaC11K3_Model.alls
+2024-03-12 13:09:01,888 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 13:09:02,044 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 13:09:02,173 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-12 13:10:02,530 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 13:10:03,004 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 13:10:33,688 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 13:10:33,750 - INFO - client_runner.py:1068 - Translation completed on ONNX model jAP7Y1SuO27sdEwa_Model
+2024-03-12 13:10:34,327 - INFO - client_runner.py:1432 - Initialized runner for jAP7Y1SuO27sdEwa_Model
+2024-03-12 13:10:34,711 - INFO - client_runner.py:384 - Loading model script to jAP7Y1SuO27sdEwa_Model from /local/shared//Alls/jAP7Y1SuO27sdEwa_Model.alls
+2024-03-12 13:10:35,404 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 13:10:35,551 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 13:10:35,689 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-12 13:11:36,109 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 13:11:36,679 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 13:24:26,833 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 13:24:26,914 - INFO - client_runner.py:1068 - Translation completed on ONNX model JCc56q91BMWCRpn7_Model
+2024-03-12 13:24:27,497 - INFO - client_runner.py:1432 - Initialized runner for JCc56q91BMWCRpn7_Model
+2024-03-12 13:24:27,895 - INFO - client_runner.py:384 - Loading model script to JCc56q91BMWCRpn7_Model from /local/shared//Alls/JCc56q91BMWCRpn7_Model.alls
+2024-03-12 13:24:28,608 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 13:24:28,767 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 13:24:28,913 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-03-12 13:25:30,752 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 13:25:31,242 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 13:26:01,774 - INFO - hailo_nn.py:1290 - Found a net_name that starts with a digit, added a prefix. New net_name is net_10ah0UDOWA30OihV_Model
+2024-03-12 13:26:02,307 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 13:26:02,370 - INFO - client_runner.py:1068 - Translation completed on ONNX model net_10ah0UDOWA30OihV_Model
+2024-03-12 13:26:02,469 - INFO - hailo_nn.py:1290 - Found a net_name that starts with a digit, added a prefix. New net_name is net_10ah0UDOWA30OihV_Model
+2024-03-12 13:26:02,941 - INFO - client_runner.py:1432 - Initialized runner for net_10ah0UDOWA30OihV_Model
+2024-03-12 13:26:03,604 - INFO - client_runner.py:384 - Loading model script to net_10ah0UDOWA30OihV_Model from /local/shared//Alls/10ah0UDOWA30OihV_Model.alls
+2024-03-12 13:26:04,302 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 13:26:04,518 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 13:26:04,673 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 13:51:54,671 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 13:51:54,737 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZdKqN8d6HH2pmQj7N_Model
+2024-03-12 13:51:55,316 - INFO - client_runner.py:1432 - Initialized runner for ZdKqN8d6HH2pmQj7N_Model
+2024-03-12 14:25:45,171 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 14:25:45,236 - INFO - client_runner.py:1068 - Translation completed on ONNX model Zc0GuQqel4A2JhOK3_Model
+2024-03-12 14:25:45,809 - INFO - client_runner.py:1432 - Initialized runner for Zc0GuQqel4A2JhOK3_Model
+2024-03-12 14:25:46,207 - INFO - client_runner.py:384 - Loading model script to Zc0GuQqel4A2JhOK3_Model from /local/shared//Alls/Zc0GuQqel4A2JhOK3_Model.alls
+2024-03-12 14:25:46,873 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 14:25:47,058 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 14:25:47,223 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 14:26:55,590 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 14:26:56,035 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 14:58:06,465 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 14:58:06,528 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZIaISx7e6e6vILD5t_Model
+2024-03-12 14:58:07,096 - INFO - client_runner.py:1432 - Initialized runner for ZIaISx7e6e6vILD5t_Model
+2024-03-12 14:58:07,489 - INFO - client_runner.py:384 - Loading model script to ZIaISx7e6e6vILD5t_Model from /local/shared//Alls/ZIaISx7e6e6vILD5t_Model.alls
+2024-03-12 14:58:08,153 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 14:58:08,302 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 14:58:08,358 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 14:59:15,670 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 14:59:16,114 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 15:00:19,735 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 15:00:19,797 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZnkaRT63RN2SIm18q_Model
+2024-03-12 15:00:20,360 - INFO - client_runner.py:1432 - Initialized runner for ZnkaRT63RN2SIm18q_Model
+2024-03-12 15:00:20,749 - INFO - client_runner.py:384 - Loading model script to ZnkaRT63RN2SIm18q_Model from /local/shared//Alls/ZnkaRT63RN2SIm18q_Model.alls
+2024-03-12 15:00:22,884 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 15:00:23,058 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 15:00:23,123 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 15:01:30,722 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 15:01:31,175 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 15:04:57,987 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 15:04:58,050 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZJ98Ef67MiNAfYyCt_Model
+2024-03-12 15:04:58,614 - INFO - client_runner.py:1432 - Initialized runner for ZJ98Ef67MiNAfYyCt_Model
+2024-03-12 15:04:59,018 - INFO - client_runner.py:384 - Loading model script to ZJ98Ef67MiNAfYyCt_Model from /local/shared//Alls/ZJ98Ef67MiNAfYyCt_Model.alls
+2024-03-12 15:04:59,684 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 15:04:59,845 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 15:04:59,910 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 15:06:10,002 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 15:06:10,456 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 15:31:22,176 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 15:31:22,241 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZKktKPu05J3ZNlf6u_Model
+2024-03-12 15:31:22,818 - INFO - client_runner.py:1432 - Initialized runner for ZKktKPu05J3ZNlf6u_Model
+2024-03-12 15:31:23,219 - INFO - client_runner.py:384 - Loading model script to ZKktKPu05J3ZNlf6u_Model from /local/shared//Alls/ZKktKPu05J3ZNlf6u_Model.alls
+2024-03-12 15:31:23,979 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 15:31:24,162 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 15:31:24,210 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 15:32:32,356 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 15:32:32,806 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 15:49:20,938 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 15:49:21,001 - INFO - client_runner.py:1068 - Translation completed on ONNX model Z56prUAXUChK8a11l_Model
+2024-03-12 15:49:21,575 - INFO - client_runner.py:1432 - Initialized runner for Z56prUAXUChK8a11l_Model
+2024-03-12 15:49:21,972 - INFO - client_runner.py:384 - Loading model script to Z56prUAXUChK8a11l_Model from /local/shared//Alls/Z56prUAXUChK8a11l_Model.alls
+2024-03-12 15:49:22,641 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 15:49:22,791 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 15:49:22,847 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 15:50:30,890 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 15:50:31,337 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 15:52:34,682 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 15:52:34,745 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZN3VJ3VtN6Wl2n6Rw_Model
+2024-03-12 15:52:35,319 - INFO - client_runner.py:1432 - Initialized runner for ZN3VJ3VtN6Wl2n6Rw_Model
+2024-03-12 15:52:35,735 - INFO - client_runner.py:384 - Loading model script to ZN3VJ3VtN6Wl2n6Rw_Model from /local/shared//Alls/ZN3VJ3VtN6Wl2n6Rw_Model.alls
+2024-03-12 15:52:36,409 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 15:52:36,563 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 15:52:36,623 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 15:53:44,697 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 15:53:45,154 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 15:58:52,054 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 15:58:52,138 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZSO58se635Hyoc1Sy_Model
+2024-03-12 15:58:52,708 - INFO - client_runner.py:1432 - Initialized runner for ZSO58se635Hyoc1Sy_Model
+2024-03-12 15:58:53,370 - INFO - client_runner.py:384 - Loading model script to ZSO58se635Hyoc1Sy_Model from /local/shared//Alls/ZSO58se635Hyoc1Sy_Model.alls
+2024-03-12 15:58:54,039 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 15:58:54,204 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 15:58:54,271 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 16:00:02,817 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 16:00:03,275 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 16:11:19,740 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 16:11:19,803 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZVEcl16bbatv0vLX2_Model
+2024-03-12 16:11:20,368 - INFO - client_runner.py:1432 - Initialized runner for ZVEcl16bbatv0vLX2_Model
+2024-03-12 16:11:20,972 - INFO - client_runner.py:384 - Loading model script to ZVEcl16bbatv0vLX2_Model from /local/shared//Alls/ZVEcl16bbatv0vLX2_Model.alls
+2024-03-12 16:11:21,643 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 16:11:21,816 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 16:11:21,889 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 16:12:30,912 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 16:12:31,365 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-12 16:14:53,652 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-12 16:14:53,715 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZrDFH4en0ZUuYn39a_Model
+2024-03-12 16:14:54,282 - INFO - client_runner.py:1432 - Initialized runner for ZrDFH4en0ZUuYn39a_Model
+2024-03-12 16:14:54,910 - INFO - client_runner.py:384 - Loading model script to ZrDFH4en0ZUuYn39a_Model from /local/shared//Alls/ZrDFH4en0ZUuYn39a_Model.alls
+2024-03-12 16:14:55,586 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-12 16:14:55,847 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-12 16:14:55,939 - INFO - sdk_backend.py:827 - Using dataset with 250 entries for calibration
+2024-03-12 16:16:05,477 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-12 16:16:05,953 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-13 15:25:56,367 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-13 15:25:56,430 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZJa2rLhR5fW4Q7X0j_Model
+2024-03-13 15:25:57,004 - INFO - client_runner.py:1432 - Initialized runner for ZJa2rLhR5fW4Q7X0j_Model
+2024-03-13 15:25:57,279 - INFO - client_runner.py:384 - Loading model script to ZJa2rLhR5fW4Q7X0j_Model from /local/shared//Alls/ZJa2rLhR5fW4Q7X0j_Model.alls
+2024-03-13 15:25:57,973 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-13 15:25:58,084 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-03-13 15:31:29,990 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-13 15:31:32,105 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZRkm40vKWL4L9HHh9_Model
+2024-03-13 15:31:32,674 - INFO - client_runner.py:1432 - Initialized runner for ZRkm40vKWL4L9HHh9_Model
+2024-03-13 15:31:40,579 - INFO - client_runner.py:384 - Loading model script to ZRkm40vKWL4L9HHh9_Model from /local/shared//Alls/ZRkm40vKWL4L9HHh9_Model.alls
+2024-03-13 15:31:44,381 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-03-13 15:31:44,917 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's no available GPU
+2024-03-13 15:31:45,017 - INFO - sdk_backend.py:827 - Using dataset with 1715 entries for calibration
+2024-03-13 15:34:19,241 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-03-13 15:34:19,703 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-03-13 16:26:01,960 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-13 16:26:02,023 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZRkm40vKWL4L9HHh9_Model
+2024-03-13 16:26:02,589 - INFO - client_runner.py:1432 - Initialized runner for ZRkm40vKWL4L9HHh9_Model
+2024-03-13 16:26:18,206 - INFO - client_runner.py:384 - Loading model script to ZRkm40vKWL4L9HHh9_Model from /local/shared//Alls/ZRkm40vKWL4L9HHh9_Model.alls
+2024-03-13 16:32:03,563 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-13 16:32:03,626 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZRkm40vKWL4L9HHh9_Model
+2024-03-13 16:32:04,206 - INFO - client_runner.py:1432 - Initialized runner for ZRkm40vKWL4L9HHh9_Model
+2024-03-13 16:32:08,506 - INFO - client_runner.py:384 - Loading model script to ZRkm40vKWL4L9HHh9_Model from /local/shared//Alls/ZRkm40vKWL4L9HHh9_Model.alls
+2024-03-13 16:32:08,864 - DEPRECATION_WARNING - nms_postprocess_command.py:271 - The default configuration of engine will be changed from `nn-core` to `auto` in the near future
+2024-03-13 16:32:08,916 - INFO - nms_postprocess.py:1153 - The activation function of layer ZRkm40vKWL4L9HHh9_Model/conv47 was replaced by a Sigmoid
+2024-03-13 16:32:08,917 - INFO - nms_postprocess.py:1153 - The activation function of layer ZRkm40vKWL4L9HHh9_Model/conv54 was replaced by a Sigmoid
+2024-03-13 16:32:08,918 - INFO - nms_postprocess.py:1153 - The activation function of layer ZRkm40vKWL4L9HHh9_Model/conv60 was replaced by a Sigmoid
+2024-03-13 16:35:54,415 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-13 16:35:54,524 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZRkm40vKWL4L9HHh9_Model
+2024-03-13 16:35:55,142 - INFO - client_runner.py:1432 - Initialized runner for ZRkm40vKWL4L9HHh9_Model
+2024-03-13 16:36:30,094 - INFO - client_runner.py:384 - Loading model script to ZRkm40vKWL4L9HHh9_Model from /local/shared//Alls/ZRkm40vKWL4L9HHh9_Model.alls
+2024-03-13 16:36:31,114 - DEPRECATION_WARNING - nms_postprocess_command.py:271 - The default configuration of engine will be changed from `nn-core` to `auto` in the near future
+2024-03-13 16:36:31,130 - INFO - nms_postprocess.py:1153 - The activation function of layer ZRkm40vKWL4L9HHh9_Model/conv47 was replaced by a Sigmoid
+2024-03-13 16:36:31,131 - INFO - nms_postprocess.py:1153 - The activation function of layer ZRkm40vKWL4L9HHh9_Model/conv54 was replaced by a Sigmoid
+2024-03-13 16:36:31,132 - INFO - nms_postprocess.py:1153 - The activation function of layer ZRkm40vKWL4L9HHh9_Model/conv60 was replaced by a Sigmoid
+2024-03-13 16:42:06,378 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-03-13 16:42:06,443 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZRkm40vKWL4L9HHh9_Model
+2024-03-13 16:42:07,073 - INFO - client_runner.py:1432 - Initialized runner for ZRkm40vKWL4L9HHh9_Model
+2024-03-13 16:42:38,171 - INFO - client_runner.py:384 - Loading model script to ZRkm40vKWL4L9HHh9_Model from /local/shared//Alls/ZRkm40vKWL4L9HHh9_Model.alls
+2024-03-13 16:42:38,520 - DEPRECATION_WARNING - nms_postprocess_command.py:271 - The default configuration of engine will be changed from `nn-core` to `auto` in the near future
+2024-03-13 16:42:38,525 - INFO - nms_postprocess.py:1153 - The activation function of layer ZRkm40vKWL4L9HHh9_Model/conv47 was replaced by a Sigmoid
+2024-03-13 16:42:38,525 - INFO - nms_postprocess.py:1153 - The activation function of layer ZRkm40vKWL4L9HHh9_Model/conv54 was replaced by a Sigmoid
+2024-03-13 16:42:38,526 - INFO - nms_postprocess.py:1153 - The activation function of layer ZRkm40vKWL4L9HHh9_Model/conv60 was replaced by a Sigmoid
+2024-03-13 16:43:25,729 - COMMAND - main.py:30 - hailo tutorial --ip 0.0.0.0
+2024-07-23 10:27:22,916 - INFO - __init__.py:61 - First time Hailo Dataflow Compiler is being used. Checking system requirements... (this might take a few seconds)
+2024-07-24 10:04:56,828 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-07-24 10:04:56,877 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZAGE8baF00NzfME7u_Model
+2024-07-24 10:04:57,344 - INFO - client_runner.py:1432 - Initialized runner for ZAGE8baF00NzfME7u_Model
+2024-07-24 10:04:58,091 - INFO - client_runner.py:384 - Loading model script to ZAGE8baF00NzfME7u_Model from /local/shared//Alls/ZAGE8baF00NzfME7u_Model.alls
+2024-07-24 10:04:58,653 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-07-24 10:04:58,803 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-07-24 10:04:58,842 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-07-24 10:05:38,486 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-07-24 10:05:39,069 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-07-31 05:51:54,594 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-07-31 05:51:54,644 - INFO - client_runner.py:1068 - Translation completed on ONNX model Z1RKmwT7c07OgPXyx_Model
+2024-07-31 05:51:55,130 - INFO - client_runner.py:1432 - Initialized runner for Z1RKmwT7c07OgPXyx_Model
+2024-07-31 05:51:55,789 - INFO - client_runner.py:384 - Loading model script to Z1RKmwT7c07OgPXyx_Model from /local/shared//Alls/Z1RKmwT7c07OgPXyx_Model.alls
+2024-07-31 05:51:56,408 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-07-31 05:51:56,551 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-07-31 05:51:56,594 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-07-31 05:52:34,260 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-07-31 05:52:34,794 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-07-31 07:16:22,315 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-07-31 07:16:22,365 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZtaK9Ad7qf51TWCKY_Model
+2024-07-31 07:16:22,824 - INFO - client_runner.py:1432 - Initialized runner for ZtaK9Ad7qf51TWCKY_Model
+2024-07-31 07:16:23,467 - INFO - client_runner.py:384 - Loading model script to ZtaK9Ad7qf51TWCKY_Model from /local/shared//Alls/ZtaK9Ad7qf51TWCKY_Model.alls
+2024-07-31 07:16:24,009 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-07-31 07:16:24,081 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-07-31 07:16:24,124 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-07-31 07:17:01,800 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-07-31 07:17:02,359 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-07-31 07:29:56,516 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-07-31 07:29:56,564 - INFO - client_runner.py:1068 - Translation completed on ONNX model Z805vjYQVchmCRuH0_Model
+2024-07-31 07:29:57,038 - INFO - client_runner.py:1432 - Initialized runner for Z805vjYQVchmCRuH0_Model
+2024-07-31 07:29:57,686 - INFO - client_runner.py:384 - Loading model script to Z805vjYQVchmCRuH0_Model from /local/shared//Alls/Z805vjYQVchmCRuH0_Model.alls
+2024-07-31 07:29:58,225 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-07-31 07:29:58,297 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-07-31 07:29:58,346 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-07-31 07:30:35,953 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-07-31 07:30:36,494 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-07-31 07:38:01,357 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-07-31 07:38:01,407 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZT9Tbge0mjt6APm3a_Model
+2024-07-31 07:38:01,892 - INFO - client_runner.py:1432 - Initialized runner for ZT9Tbge0mjt6APm3a_Model
+2024-07-31 07:38:03,865 - INFO - client_runner.py:384 - Loading model script to ZT9Tbge0mjt6APm3a_Model from /local/shared//Alls/ZT9Tbge0mjt6APm3a_Model.alls
+2024-07-31 07:38:04,426 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-07-31 07:38:04,518 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-07-31 07:38:04,575 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-07-31 07:38:41,136 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-07-31 07:38:41,693 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-07-31 07:57:39,405 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-07-31 07:57:39,471 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZiS2q20ANT20Sj4qN_Model
+2024-07-31 07:57:39,954 - INFO - client_runner.py:1432 - Initialized runner for ZiS2q20ANT20Sj4qN_Model
+2024-07-31 07:57:40,609 - INFO - client_runner.py:384 - Loading model script to ZiS2q20ANT20Sj4qN_Model from /local/shared//Alls/ZiS2q20ANT20Sj4qN_Model.alls
+2024-07-31 07:57:41,170 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-07-31 07:57:41,258 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-07-31 07:57:41,324 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-07-31 07:58:18,127 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-07-31 07:58:18,642 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-07-31 08:12:07,851 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-07-31 08:12:07,906 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZBfYf3fUwI4npf236_Model
+2024-07-31 08:12:08,390 - INFO - client_runner.py:1432 - Initialized runner for ZBfYf3fUwI4npf236_Model
+2024-07-31 08:12:09,040 - INFO - client_runner.py:384 - Loading model script to ZBfYf3fUwI4npf236_Model from /local/shared//Alls/ZBfYf3fUwI4npf236_Model.alls
+2024-07-31 08:12:11,028 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-07-31 08:12:11,127 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-07-31 08:12:11,213 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-07-31 08:12:48,958 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-07-31 08:12:49,515 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-07-31 08:54:51,576 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-07-31 08:54:51,627 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZpeMGU04in0FTPxn1_Model
+2024-07-31 08:54:52,090 - INFO - client_runner.py:1432 - Initialized runner for ZpeMGU04in0FTPxn1_Model
+2024-07-31 08:54:52,728 - INFO - client_runner.py:384 - Loading model script to ZpeMGU04in0FTPxn1_Model from /local/shared//Alls/ZpeMGU04in0FTPxn1_Model.alls
+2024-07-31 08:54:53,275 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-07-31 08:54:53,376 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-07-31 08:54:53,461 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-07-31 08:55:32,215 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-07-31 08:55:32,756 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-07-31 09:09:36,027 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-07-31 09:09:36,077 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZrAeYOj93j1eI15oB_Model
+2024-07-31 09:09:36,556 - INFO - client_runner.py:1432 - Initialized runner for ZrAeYOj93j1eI15oB_Model
+2024-07-31 09:09:37,204 - INFO - client_runner.py:384 - Loading model script to ZrAeYOj93j1eI15oB_Model from /local/shared//Alls/ZrAeYOj93j1eI15oB_Model.alls
+2024-07-31 09:09:37,773 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-07-31 09:09:37,867 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-07-31 09:09:37,955 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-07-31 09:10:17,270 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-07-31 09:10:17,803 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-08-02 03:47:35,780 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-08-02 03:47:35,828 - INFO - client_runner.py:1068 - Translation completed on ONNX model Z3jMLsK67UeAlG7Gw_Model
+2024-08-02 03:47:36,290 - INFO - client_runner.py:1432 - Initialized runner for Z3jMLsK67UeAlG7Gw_Model
+2024-08-02 03:47:36,920 - INFO - client_runner.py:384 - Loading model script to Z3jMLsK67UeAlG7Gw_Model from /local/shared//Alls/Z3jMLsK67UeAlG7Gw_Model.alls
+2024-08-02 03:47:37,478 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-08-02 03:47:37,585 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-08-02 03:47:37,683 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-08-02 03:48:18,821 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-08-02 03:48:19,428 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-08-02 08:13:30,949 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-08-02 08:13:31,021 - INFO - client_runner.py:1068 - Translation completed on ONNX model ZbC8yX3wnkMBvN251_Model
+2024-08-02 08:13:31,508 - INFO - client_runner.py:1432 - Initialized runner for ZbC8yX3wnkMBvN251_Model
+2024-08-02 08:13:32,184 - INFO - client_runner.py:384 - Loading model script to ZbC8yX3wnkMBvN251_Model from /local/shared//Alls/ZbC8yX3wnkMBvN251_Model.alls
+2024-08-02 08:23:07,144 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-08-02 08:23:07,192 - INFO - client_runner.py:1068 - Translation completed on ONNX model Z0j6XEXvT3vizg0ow_Model
+2024-08-02 08:23:07,660 - INFO - client_runner.py:1432 - Initialized runner for Z0j6XEXvT3vizg0ow_Model
+2024-08-02 08:23:08,294 - INFO - client_runner.py:384 - Loading model script to Z0j6XEXvT3vizg0ow_Model from /local/shared//Alls/Z0j6XEXvT3vizg0ow_Model.alls
+2024-08-02 08:23:08,893 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-08-02 08:23:09,018 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-08-02 08:23:09,055 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
+2024-08-02 08:23:45,687 - IMPORTANT - sdk_backend.py:892 - Model Optimization is done
+2024-08-02 08:23:46,227 - DEPRECATION_WARNING - commands.py:2357 - Params keys ['strategy'] are internal and will be deprecated on future releases.
+2024-08-02 08:59:14,646 - INFO - hailo_nn.py:1334 - NMS structure of yolov5 (or equivalent architecture) was detected, a generated config file will be saved inside the har. To add NMS postprocessing to the model, please use the command: nms_postprocess(meta_arch=yolov5).
+2024-08-02 08:59:14,700 - INFO - client_runner.py:1068 - Translation completed on ONNX model Zsm9GMI8oeO86npkW_Model
+2024-08-02 08:59:15,212 - INFO - client_runner.py:1432 - Initialized runner for Zsm9GMI8oeO86npkW_Model
+2024-08-02 08:59:15,858 - INFO - client_runner.py:384 - Loading model script to Zsm9GMI8oeO86npkW_Model from /local/shared//Alls/Zsm9GMI8oeO86npkW_Model.alls
+2024-08-02 08:59:16,404 - IMPORTANT - sdk_backend.py:876 - Starting Model Optimization
+2024-08-02 08:59:16,473 - WARNING - mo_config.py:126 - Reducing optimization level to 0 (the accuracy won't be optimized and compression won't be used) because there's less data than the recommended amount (1024), and there's no available GPU
+2024-08-02 08:59:16,516 - INFO - sdk_backend.py:827 - Using dataset with 62 entries for calibration
