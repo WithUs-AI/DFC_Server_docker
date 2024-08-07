@@ -7,7 +7,7 @@ class DFC_DB:
         self.UserName = username
         self.PW = pw
         self.DBname = dbname
-        self.conn = pymysql.connect(host=self.Hostip, user=self.UserName, password=self.PW, db=self.DBname,
+        self.conn = pymysql.connect(host="127.0.0.1", user=self.UserName, password=self.PW, db=self.DBname,
                                      charset='utf8', read_timeout=2, write_timeout=2, connect_timeout=2, autocommit=True)
         self.cur = self.conn.cursor()
 

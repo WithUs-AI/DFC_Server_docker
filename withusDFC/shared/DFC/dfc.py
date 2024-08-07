@@ -32,8 +32,9 @@ def preproc(image, output_height=640, output_width=640, resize_side=640):
 # onnx file check
 def onnxCheck(rootdir) :
     onnxEx= '.onnx'
-    onnx_list = [file for file in os.listdir(rootdir) if file.endswith(onnxEx)]
     
+    onnx_list = [file for file in os.listdir(rootdir) if file.endswith(onnxEx)]
+
     print(onnx_list)
     
     if len(onnx_list) == 1 :
@@ -42,6 +43,7 @@ def onnxCheck(rootdir) :
         print("Onnx파일이 없거나 여러개 있습니다. 컴파일할 Onnx 파일 하나만 남겨주세요.")
         return ""
     
+
 # json file check
 def jsonCheck(rootdir) :
     jsonEx= '.json'
@@ -89,6 +91,13 @@ def SetVariable(dfcdata):
     print(token)
     print(workpath)
     
+    # 디렉토리가 있는지 없는지 검사
+    if os.path.isdir(workpath):
+        print(f"디렉토리가 존재합니다: {workpath}")
+    else:
+        print(f"디렉토리가 존재하지 않습니다: {workpath}")
+        return "fail"
+
     yolo_model_name = '{0}_Model'.format(token)
     yolo_onnx_model_path = '{0}/{1}'.format(workpath,onnxCheck(workpath))
     parse_har_name= '{0}/har/{1}_parse.har'.format(workpath,yolo_model_name)
@@ -109,6 +118,8 @@ def SetVariable(dfcdata):
     print(hef_name)
     print(cal_images_path)
     print(alls_file_path)
+
+    return "pass"
 
 def Make_alls(def_alls, data_len):
     # Load the model script to ClientRunner so it will be considered on optimization
@@ -189,7 +200,10 @@ def main():
             
             if item!=0 and len(item) > 0 :
                 print("find data")
-                SetVariable(item)
+                result = SetVariable(item)
+                if result == "fail" :
+                    print("DFC_ERROR!!!")
+                    dfc_db.Set_Error(token)
                 print("Dir Set End")
                 dfc_db.Set_start(token)
                 print("state change")
