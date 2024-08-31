@@ -1,6 +1,10 @@
 # 도커 환경 설치하기
-1. 도커 데스크탑 설치하기
-2. DFC_SYSTEM 폴더 받기
+1. virtualbox 데스크탑 다운로드
+2. virtualbox 설치
+VirtualBox-7.0.8-156879-Win.exe를 사용합니다.
+3. virtualbox 이미지 다운로드
+https://drive.google.com/file/d/1u9N7nKwm5K69y76mysF6LPzCgwGcBvmn/view?usp=sharing
+4. DFC_SYSTEM 폴더 받기
 
 # 도커 환경 설정하기
 1. hailo 홈페이지에서 'hailo_sw_suite_2023-07.1.tar' 설치하기
